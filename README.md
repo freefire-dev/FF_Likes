@@ -85,7 +85,6 @@ This site is a fan-made tool to sending likes. It is **not affiliated with Garen
 ## 🙋 Need Help?
 
 If something doesn’t work as expected or you have suggestions, please email us.
-flame@freefire.dev
-support@freefire.dev
+flame@freefire.dev or support@freefire.dev
 
 Enjoy boosting your freefire profile with sending likes! 🔥
