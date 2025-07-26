@@ -78,8 +78,7 @@ Choose from:
 
 ## 📝 Disclaimer
 
-This site is a fan-made tool to sending likes. It is **not affiliated with Garena or Free Fire** in any official capacity.
-
+API Compliance Notice: All requests are handled securely on the server-side, with proper validation and rate limiting in place to ensure safe and fair usage across all supported regions !
 ---
 
 ## 🙋 Need Help?
